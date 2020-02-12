@@ -7,13 +7,13 @@ from tkinter import ttk
 root = Tk()
 root.title("Computer Project : Area calculator")
 root.geometry("563x680")
-root.iconbitmap('C:/GUI Projects/calculator icon.ico')
+root.iconbitmap('C:/calculator icon.ico')
 
 ##Second Window(Members)
 new_window = Toplevel()
 new_window.title("Members")
 new_window.geometry("795x435")
-new_window.iconbitmap('C:/GUI Projects/member icon.ico')
+new_window.iconbitmap('C:/member icon.ico')
 
 #Second Frame
 second_title_frame = LabelFrame(new_window, padx=5,pady=5, bg = "PaleTurquoise")
