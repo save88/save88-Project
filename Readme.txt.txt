@@ -1,1 +1,0 @@
-You need to write down you icons location in you computer first. before you use.
